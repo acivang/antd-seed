@@ -22,9 +22,9 @@ function App() {
 		    onSelect={onSelected}
         style={{width:100}}
 		    >
-		    <Option key="1">dddd</Option>
-		    <Option key="2">dddd2</Option>
-		    <Option key="3">dddd3</Option>
+		    <Option key="1">key-1</Option>
+		    <Option key="2">key-2</Option>
+		    <Option key="3">key-3</Option>
 		</Select>
     </div>
   );
